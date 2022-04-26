@@ -1,0 +1,7 @@
+pandas
+numpy
+dgl
+nltk
+torch
+transformers 4.16.2
+tensorboard
